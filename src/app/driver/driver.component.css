@@ -62,13 +62,14 @@ course-card {
   
   .category {
     margin-top: 15px;
-    background: lightcyan;
-    font-size: 14px;
-    color: grey;
+    color: black;
+    font-size: 20px;
+    background-color: aqua;
     border: 1px solid grey;
     border-radius: 4px;
-    padding: 2px 3px;
+    padding: 5px 10px;
     display: inline;
+    font-style: italic;
   }
   
   .demo {
@@ -85,9 +86,9 @@ course-card {
     box-shadow: 0 2px 16px 0 #de1e19, 0 3px 8px 0 rgba(226, 21, 19, 0.47), 0 6px 8px -1px #b41c18;
   }
   
- .prv{
-  color: red;
- } 
+  .poz{
+    background: lightblue;
+  }
   
   
   
